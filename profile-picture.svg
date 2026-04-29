@@ -1,51 +1,111 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#764ba2;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f093fb;stop-opacity:1" />
+    <!-- Outer glow gradient ring -->
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   style="stop-color:#667eea"/>
+      <stop offset="50%"  style="stop-color:#764ba2"/>
+      <stop offset="100%" style="stop-color:#f093fb"/>
     </linearGradient>
-    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.25" />
-      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0" />
+    <!-- Dark inner background -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
     </linearGradient>
-    <filter id="shadow">
-      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#764ba2" flood-opacity="0.4"/>
+    <!-- Text glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
     </filter>
+    <!-- Outer ring glow -->
+    <filter id="ringGlow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="circle">
+      <circle cx="200" cy="200" r="188"/>
+    </clipPath>
   </defs>
 
-  <!-- Background circle -->
-  <circle cx="200" cy="200" r="195" fill="url(#bg)" filter="url(#shadow)"/>
+  <!-- Glowing outer ring -->
+  <circle cx="200" cy="200" r="195" fill="url(#ringGrad)" filter="url(#ringGlow)"/>
 
-  <!-- Shine overlay -->
-  <ellipse cx="160" cy="130" rx="130" ry="90" fill="url(#shine)" opacity="0.6"/>
+  <!-- Dark background inside -->
+  <circle cx="200" cy="200" r="183" fill="url(#bgGrad)"/>
 
-  <!-- Star of David (two triangles) -->
-  <!-- Triangle pointing up -->
-  <polygon points="200,85 255,175 145,175"
-           fill="none" stroke="rgba(255,255,255,0.30)" stroke-width="3"/>
-  <!-- Triangle pointing down -->
-  <polygon points="200,315 145,225 255,225"
-           fill="none" stroke="rgba(255,255,255,0.30)" stroke-width="3"/>
+  <!-- Subtle dot grid pattern -->
+  <g clip-path="url(#circle)" opacity="0.12">
+    <g fill="#764ba2">
+      <!-- Row 1 -->
+      <circle cx="80"  cy="80"  r="2"/><circle cx="120" cy="80"  r="2"/><circle cx="160" cy="80"  r="2"/>
+      <circle cx="200" cy="80"  r="2"/><circle cx="240" cy="80"  r="2"/><circle cx="280" cy="80"  r="2"/><circle cx="320" cy="80"  r="2"/>
+      <!-- Row 2 -->
+      <circle cx="80"  cy="120" r="2"/><circle cx="120" cy="120" r="2"/><circle cx="160" cy="120" r="2"/>
+      <circle cx="200" cy="120" r="2"/><circle cx="240" cy="120" r="2"/><circle cx="280" cy="120" r="2"/><circle cx="320" cy="120" r="2"/>
+      <!-- Row 3 -->
+      <circle cx="80"  cy="280" r="2"/><circle cx="120" cy="280" r="2"/><circle cx="160" cy="280" r="2"/>
+      <circle cx="200" cy="280" r="2"/><circle cx="240" cy="280" r="2"/><circle cx="280" cy="280" r="2"/><circle cx="320" cy="280" r="2"/>
+      <!-- Row 4 -->
+      <circle cx="80"  cy="320" r="2"/><circle cx="120" cy="320" r="2"/><circle cx="160" cy="320" r="2"/>
+      <circle cx="200" cy="320" r="2"/><circle cx="240" cy="320" r="2"/><circle cx="280" cy="320" r="2"/><circle cx="320" cy="320" r="2"/>
+    </g>
+  </g>
 
-  <!-- Initials MS -->
-  <text x="200" y="186"
-        font-family="Georgia, 'Times New Roman', serif"
-        font-size="72"
+  <!-- Code brackets — left < -->
+  <text x="38" y="222"
+        font-family="'Courier New', Courier, monospace"
+        font-size="80"
         font-weight="bold"
-        fill="white"
+        fill="#667eea"
+        opacity="0.55"
+        filter="url(#glow)">&lt;</text>
+
+  <!-- Code brackets — right /> -->
+  <text x="268" y="222"
+        font-family="'Courier New', Courier, monospace"
+        font-size="80"
+        font-weight="bold"
+        fill="#f093fb"
+        opacity="0.55"
+        filter="url(#glow)">/&gt;</text>
+
+  <!-- Main initials — M -->
+  <text x="200" y="185"
+        font-family="'Arial Rounded MT Bold', 'Nunito', 'Varela Round', Arial, sans-serif"
+        font-size="100"
+        font-weight="900"
+        fill="url(#ringGrad)"
         text-anchor="middle"
         dominant-baseline="middle"
-        opacity="0.95">M</text>
-  <text x="200" y="262"
-        font-family="Georgia, 'Times New Roman', serif"
-        font-size="72"
-        font-weight="bold"
-        fill="white"
+        filter="url(#glow)"
+        letter-spacing="-4">M</text>
+
+  <!-- Main initials — S -->
+  <text x="200" y="285"
+        font-family="'Arial Rounded MT Bold', 'Nunito', 'Varela Round', Arial, sans-serif"
+        font-size="100"
+        font-weight="900"
+        fill="url(#ringGrad)"
         text-anchor="middle"
         dominant-baseline="middle"
-        opacity="0.95">S</text>
+        filter="url(#glow)"
+        letter-spacing="-4">S</text>
 
-  <!-- Thin border ring -->
-  <circle cx="200" cy="200" r="192" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+  <!-- Thin separator line between M and S -->
+  <line x1="130" y1="230" x2="270" y2="230"
+        stroke="url(#ringGrad)" stroke-width="1.5" opacity="0.4"/>
+
+  <!-- Bottom label -->
+  <text x="200" y="358"
+        font-family="'Courier New', Courier, monospace"
+        font-size="15"
+        fill="#764ba2"
+        text-anchor="middle"
+        opacity="0.7"
+        letter-spacing="3">DEVELOPER</text>
 </svg>
