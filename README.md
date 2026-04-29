@@ -127,7 +127,7 @@ const miryam = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/salomonmiryam@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salomonmiryam@gmail.com)
+[![Email](https://img.shields.io/badge/m.forwork957@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salomonmiryam@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-MiryamSalomon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiryamSalomon)
 
 <br/>
