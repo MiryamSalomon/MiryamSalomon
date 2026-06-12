@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=764ba2&center=true&vCenter=true&width=700&lines=Building+full-stack+apps+with+Python+%26+React;AI+pipelines+%7C+REST+APIs+%7C+Clean+Architecture;FastAPI+%7C+MongoDB+%7C+TypeScript+%7C+Tailwind;58+tests+passing+%E2%9C%94+%7C+Production-ready+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=764ba2&center=true&vCenter=true&width=700&lines=Building+full-stack+apps+with+Python+%26+React;AI+pipelines+%7C+REST+APIs+%7C+Clean+Architecture;FastAPI+%7C+MongoDB+%7C+TypeScript+%7C+Tailwind;Production-ready+code+%E2%9C%94)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,8 +21,8 @@
 const miryam = {
   location:   "Israel 🇮🇱",
   languages:  ["Hebrew", "English"],
-  code:       ["Python", "TypeScript", "JavaScript", "C#"],
-  frameworks: ["FastAPI", "React", "Tailwind CSS", "Motor"],
+  code:       ["Python", "TypeScript", "JavaScript", "C#", "Java"],
+  frameworks: ["FastAPI", "React", "Tailwind CSS", "Motor", "Spring Boot"],
   databases:  ["MongoDB Atlas", "SQL"],
   ai:         ["OpenAI Embeddings", "GPT-4o", "Prompt Engineering"],
   currently:  "Building AI-powered full-stack applications",
@@ -42,6 +42,7 @@ const miryam = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -71,6 +72,16 @@ const miryam = {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiryamSalomon&repo=tryGenAI&theme=tokyonight&border_color=764ba2&title_color=f093fb&icon_color=764ba2&show_owner=false" />
 </a>
 
+<br/><br/>
+
+<a href="https://github.com/MiryamSalomon/puzzle-hub-explorer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiryamSalomon&repo=puzzle-hub-explorer&theme=tokyonight&border_color=764ba2&title_color=f093fb&icon_color=764ba2&show_owner=false" />
+</a>
+&nbsp;
+<a href="https://github.com/MiryamSalomon/YadSara">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiryamSalomon&repo=YadSara&theme=tokyonight&border_color=764ba2&title_color=f093fb&icon_color=764ba2&show_owner=false" />
+</a>
+
 </div>
 
 <br/>
@@ -84,8 +95,20 @@ const miryam = {
 | 🐍 Backend | FastAPI · Motor · MongoDB Atlas · Argon2id · JWT |
 | ⚛️ Frontend | React 18 · TypeScript · Tailwind CSS · Vite · react-i18next |
 | 🤖 AI Pipeline | OpenAI `text-embedding-3-large` → Cosine Similarity → GPT-4o-mini reranking |
-| 🧪 Tests | 58 passing pytest-asyncio tests |
+| 🧪 Tests | pytest-asyncio — in-memory MongoDB mock, no cloud needed |
 | 🌐 i18n | Full EN ↔ Hebrew with live RTL layout switching |
+
+### 🧩 Puzzle Hub Explorer — TypeScript & React
+
+> A hub for exploring and solving puzzles, built with TypeScript and React.
+
+### 🤖 tryGenAI — Generative AI Experiments
+
+> Python experiments and demos covering LLMs, prompt engineering, and generative AI.
+
+### 🖥️ YadSara — C# Desktop Application
+
+> A C# desktop application for managing data and workflows.
 
 ---
 
@@ -127,7 +150,7 @@ const miryam = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/m.forwork957@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salomonmiryam@gmail.com)
+[![Email](https://img.shields.io/badge/salomonmiryam@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salomonmiryam@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-MiryamSalomon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiryamSalomon)
 
 <br/>
