@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Hi%2C%20I'm%20Miryam%20%F0%9F%91%8B&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Python%20%C2%B7%20React%20%C2%B7%20AI&descAlignY=64&descSize=20&descColor=ffffffcc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Hi%2C%20I'm%20Miryam%20%F0%9F%91%8B&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20%7C%20AI%20Pipelines%20%7C%20QA%20%E2%80%94%20Ready%20for%20my%20first%20role&descAlignY=64&descSize=20&descColor=ffffffcc" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=764ba2&center=true&vCenter=true&width=700&lines=Building+full-stack+apps+with+Python+%26+React;AI+pipelines+%7C+REST+APIs+%7C+Clean+Architecture;FastAPI+%7C+MongoDB+%7C+TypeScript+%7C+Tailwind;Production-ready+code+%E2%9C%94)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=764ba2&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+Python+%26+React+%26+TypeScript;Built+a+production-grade+AI+matching+system+from+scratch;58+automated+tests+%E2%80%94+pytest%2C+async%2C+in-memory+mocks;Open+to+my+first+role+%F0%9F%9A%80+Full-Stack+%7C+Backend+%7C+QA)](https://git.io/typing-svg)
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MiryamSalomon&color=764ba2&style=for-the-badge&label=Profile+Views)](https://github.com/MiryamSalomon)
-[![GitHub followers](https://img.shields.io/github/followers/MiryamSalomon?style=for-the-badge&color=667eea&labelColor=764ba2)](https://github.com/MiryamSalomon?tab=followers)
+[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-First%20Role%20in%20Tech-22c55e?style=for-the-badge)](mailto:salomonmiryam@gmail.com)
 
 </div>
 
@@ -18,17 +18,30 @@
 ## 👩‍💻 About Me
 
 ```typescript
-const miryam = {
-  location:   "Israel 🇮🇱",
-  languages:  ["Hebrew", "English"],
-  code:       ["Python", "TypeScript", "JavaScript", "C#", "Java"],
-  frameworks: ["FastAPI", "React", "Tailwind CSS", "Motor", "Spring Boot"],
-  databases:  ["MongoDB Atlas", "SQL"],
-  ai:         ["OpenAI Embeddings", "GPT-4o", "Prompt Engineering"],
-  currently:  "Building AI-powered full-stack applications",
-  openTo:     "New opportunities — feel free to reach out! 💼",
+const miryam: Developer = {
+  location:    "Israel 🇮🇱",
+  languages:   ["Hebrew", "English"],
+  code:        ["Python", "TypeScript", "JavaScript", "C#", "Java"],
+  frameworks:  ["FastAPI", "React", "Tailwind CSS", "Motor", "Spring Boot"],
+  databases:   ["MongoDB Atlas", "SQL"],
+  ai:          ["OpenAI Embeddings", "GPT-4o", "Prompt Engineering"],
+  testing:     ["pytest-asyncio", "in-memory mocks", "unit + integration tests"],
+  status:      "🟢 Available — actively looking for my first role in tech",
+  superpower:  "I ship features AND cover them with tests",
 };
 ```
+
+---
+
+## 🔥 What I Bring to Your Team
+
+| | |
+|---|---|
+| **Full-Stack** | End-to-end ownership — FastAPI backend to React frontend, documented and tested |
+| **AI Integration** | Built a real embedding + GPT reranking pipeline, not just an API call |
+| **Testing Mindset** | 58 automated tests on a personal project — async, mocked, no cloud needed |
+| **Hebrew + RTL** | Native Hebrew speaker — built full i18n with live RTL layout switching |
+| **Clean Code** | Pydantic schemas, repository pattern, Argon2id security, env-based config |
 
 ---
 
@@ -50,9 +63,9 @@ const miryam = {
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Tools & Testing
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Testing & Tools
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
@@ -72,43 +85,24 @@ const miryam = {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiryamSalomon&repo=tryGenAI&theme=tokyonight&border_color=764ba2&title_color=f093fb&icon_color=764ba2&show_owner=false" />
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/MiryamSalomon/puzzle-hub-explorer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiryamSalomon&repo=puzzle-hub-explorer&theme=tokyonight&border_color=764ba2&title_color=f093fb&icon_color=764ba2&show_owner=false" />
-</a>
-&nbsp;
-<a href="https://github.com/MiryamSalomon/YadSara">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiryamSalomon&repo=YadSara&theme=tokyonight&border_color=764ba2&title_color=f093fb&icon_color=764ba2&show_owner=false" />
-</a>
-
 </div>
 
 <br/>
 
-### ✡️ Shidduch App — AI Matchmaking System
+### ✡️ Shidduch App — Production-Grade AI Matchmaking System
 
-> A full-stack platform for Jewish matchmakers (*shadchanim*) to manage candidates and run AI-powered compatibility scoring.
+> Full-stack platform for Jewish matchmakers to manage candidates and run AI-powered compatibility scoring. Built solo, end-to-end.
 
-| Layer | Stack |
+| What | How |
 |---|---|
-| 🐍 Backend | FastAPI · Motor · MongoDB Atlas · Argon2id · JWT |
-| ⚛️ Frontend | React 18 · TypeScript · Tailwind CSS · Vite · react-i18next |
-| 🤖 AI Pipeline | OpenAI `text-embedding-3-large` → Cosine Similarity → GPT-4o-mini reranking |
-| 🧪 Tests | pytest-asyncio — in-memory MongoDB mock, no cloud needed |
-| 🌐 i18n | Full EN ↔ Hebrew with live RTL layout switching |
+| 🐍 **Backend** | FastAPI · Motor · MongoDB Atlas · Argon2id · JWT · rate limiting |
+| ⚛️ **Frontend** | React 18 · TypeScript · Tailwind CSS · Vite · react-i18next |
+| 🤖 **AI Pipeline** | `text-embedding-3-large` (3072-dim) → cosine similarity → GPT-4o-mini reranking |
+| 🧪 **Testing** | **58 pytest-asyncio tests** — in-memory MongoDB mock, mocked OpenAI, zero cloud cost |
+| 🌐 **i18n** | Full EN ↔ Hebrew with live RTL layout switching, persisted in localStorage |
+| 🔐 **Security** | Argon2id hashing · HS256 JWT · CORS from env · `.env` never committed |
 
-### 🧩 Puzzle Hub Explorer — TypeScript & React
-
-> A hub for exploring and solving puzzles, built with TypeScript and React.
-
-### 🤖 tryGenAI — Generative AI Experiments
-
-> Python experiments and demos covering LLMs, prompt engineering, and generative AI.
-
-### 🖥️ YadSara — C# Desktop Application
-
-> A C# desktop application for managing data and workflows.
+> 💡 *What makes this special:* most junior portfolios have a CRUD app. This has an AI pipeline, a full test suite, security best practices, and bilingual support — all in one project.
 
 ---
 
@@ -116,7 +110,7 @@ const miryam = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MiryamSalomon&show_icons=true&theme=tokyonight&border_color=764ba2&title_color=f093fb&icon_color=764ba2&count_private=true&hide_border=false" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MiryamSalomon&show_icons=true&theme=tokyonight&border_color=764ba2&title_color=f093fb&icon_color=764ba2&count_private=true" height="180"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiryamSalomon&layout=compact&theme=tokyonight&border_color=764ba2&title_color=f093fb&icon_color=764ba2&langs_count=6" height="180"/>
 
@@ -136,26 +130,17 @@ const miryam = {
 
 ---
 
-## 💬 Dev Quote of the Day
+## 📫 Let's Talk
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-## 📫 Get in Touch
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/salomonmiryam@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salomonmiryam@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MiryamSalomon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiryamSalomon)
+**I'm actively looking for my first role — Full-Stack, Backend, or QA.**  
+If you're hiring a junior who takes testing seriously and ships production-grade code, I'd love to hear from you.
 
 <br/>
 
-*💡 I'm always happy to connect, collaborate, or chat about code!*
+[![Email](https://img.shields.io/badge/salomonmiryam@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salomonmiryam@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MiryamSalomon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiryamSalomon)
 
 </div>
 
