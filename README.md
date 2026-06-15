@@ -38,12 +38,12 @@ const miryam: Developer = {
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge&logo=hackthebox&logoColor=white)
+![AI](https://img.shields.io/badge/Advanced_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
-> Deepening expertise in containerization, CI/CD pipelines, and end-to-end test automation — the next layer on top of the testing foundation already in [shidduch-app](https://github.com/MiryamSalomon/shidduch-app).
+> Currently deepening: Docker containerization · Information security · Advanced AI & LLMs — building on top of the AI pipeline already in [shidduch-app](https://github.com/MiryamSalomon/shidduch-app).
 
 ---
 
