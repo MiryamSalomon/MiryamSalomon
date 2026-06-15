@@ -9,7 +9,7 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MiryamSalomon&color=764ba2&style=for-the-badge&label=Profile+Views)](https://github.com/MiryamSalomon)
-[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-First%20Role%20in%20Tech-22c55e?style=for-the-badge)](mailto:m.forwork957@gmail.com)
+[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-First%20Role%20in%20Tech-22c55e?style=for-the-badge)](mailto:salomonmiryam@gmail.com)
 
 </div>
 
@@ -157,7 +157,7 @@ If you're hiring a junior who takes testing seriously and ships production-grade
 
 <br/>
 
-[![Email](https://img.shields.io/badge/m.forwork957@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.forwork957@gmail.com)
+[![Email](https://img.shields.io/badge/salomonmiryam@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salomonmiryam@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-MiryamSalomon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiryamSalomon)
 
 </div>
