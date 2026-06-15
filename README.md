@@ -45,6 +45,16 @@ const miryam: Developer = {
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MiryamSalomon&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -122,7 +132,15 @@ const miryam: Developer = {
 
 ---
 
-## 🐍 Contribution Activity
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiryamSalomon&theme=tokyo-night&bg_color=1a1b27&color=f093fb&line=764ba2&point=f093fb&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/MiryamSalomon/MiryamSalomon/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
