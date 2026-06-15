@@ -45,16 +45,6 @@ const miryam: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MiryamSalomon&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
