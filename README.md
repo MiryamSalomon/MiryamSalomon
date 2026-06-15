@@ -33,6 +33,20 @@ const miryam: Developer = {
 
 ---
 
+## 🌱 Currently Learning
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+
+</div>
+
+> Deepening expertise in containerization, CI/CD pipelines, and end-to-end test automation — the next layer on top of the testing foundation already in [shidduch-app](https://github.com/MiryamSalomon/shidduch-app).
+
+---
+
 ## 🔥 What I Bring to Your Team
 
 | | |
