@@ -134,16 +134,6 @@ const miryam: Developer = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiryamSalomon&theme=tokyonight&border=764ba2&ring=f093fb&fire=f093fb&currStreakLabel=764ba2" height="180"/>
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiryamSalomon&theme=tokyo-night&bg_color=1a1b27&color=f093fb&line=764ba2&point=f093fb&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
