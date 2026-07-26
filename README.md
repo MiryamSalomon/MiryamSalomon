@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Hi%2C%20I'm%20Miryam%20%F0%9F%91%8B&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20%7C%20AI%20Pipelines%20%7C%20Ready%20for%20my%20first%20role&descAlignY=64&descSize=20&descColor=ffffffcc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Hi%2C%20I'm%20Miryam%20%F0%9F%91%8B&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20%7C%20AI%20Pipelines%20%7C%20QA%20%E2%80%94%20Ready%20for%20my%20first%20role&descAlignY=64&descSize=20&descColor=ffffffcc" width="100%"/>
 
 <br/>
 
@@ -80,6 +80,7 @@ const miryam: Developer = {
 ### Testing & Tools
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
@@ -133,6 +134,14 @@ const miryam: Developer = {
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiryamSalomon&theme=tokyonight&border=764ba2&ring=f093fb&fire=f093fb&currStreakLabel=764ba2" height="180"/>
 </div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiryamSalomon&theme=tokyo-night&bg_color=1a1b27&color=f093fb&line=764ba2&point=f093fb&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
 
 ## 🐍 Contribution Snake
 
