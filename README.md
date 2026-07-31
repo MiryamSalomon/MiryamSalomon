@@ -23,9 +23,10 @@ const miryam: Developer = {
   languages:   ["Hebrew", "English"],
   code:        ["Python", "TypeScript", "JavaScript", "C#", "Java"],
   frameworks:  ["FastAPI", "React", "Tailwind CSS", "Motor", "Spring Boot"],
-  databases:   ["MongoDB Atlas", "SQL"],
-  ai:          ["OpenAI Embeddings", "GPT-4o", "Prompt Engineering"],
-  testing:     ["pytest-asyncio", "in-memory mocks", "unit + integration tests"],
+  databases:   ["MongoDB Atlas", "PostgreSQL", "SQL"],
+  ai:          ["OpenAI Embeddings", "GPT-4o", "AI Agents", "Prompt Engineering"],
+  testing:     ["pytest-asyncio", "in-memory mocks", "unit + integration + E2E tests"],
+  currently:   "Contributing to team projects — AI pipelines & authorization engines",
   status:      "🟢 Available — actively looking for my first role in tech",
   superpower:  "I ship features AND cover them with tests",
 };
@@ -52,9 +53,10 @@ const miryam: Developer = {
 | | |
 |---|---|
 | **Full-Stack** | End-to-end ownership — FastAPI backend to React frontend, documented and tested |
-| **AI Integration** | Built a real embedding + GPT reranking pipeline, not just an API call |
-| **Testing Mindset** | 58 automated tests on a personal project — async, mocked, no cloud needed |
-| **Hebrew + RTL** | Native Hebrew speaker — built full i18n with live RTL layout switching |
+| **AI Agents** | Built Commander / Mentor / Evaluator agents with OpenAI — not wrappers, real pipelines |
+| **Team Contributor** | Active PRs merged in real team projects — I can read & extend someone else's codebase |
+| **Testing Mindset** | E2E · integration · unit tests with async mocks — no cloud needed to run the suite |
+| **Authorization** | Built CASL permission engine with field-level, tenant-scoped access control |
 | **Clean Code** | Pydantic schemas, repository pattern, Argon2id security, env-based config |
 
 ---
@@ -77,10 +79,14 @@ const miryam: Developer = {
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ### Testing & Tools
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
@@ -118,6 +124,39 @@ const miryam: Developer = {
 | 🔐 **Security** | Argon2id hashing · HS256 JWT · CORS from env · `.env` never committed |
 
 > 💡 *What makes this special:* most junior portfolios have a CRUD app. This has an AI pipeline, a full test suite, security best practices, and bilingual support — all in one project.
+
+---
+
+## 🤝 Team Contributions
+
+> Beyond personal projects — actively contributing to real team codebases with PRs, code reviews, and feature ownership.
+
+### 🛡️ Iris — SOC Incident Simulation Platform *(st7676/iris)*
+
+AI-powered cybersecurity training platform where analysts practice responding to real-world incidents.
+
+**My contribution — built the entire AI layer:**
+- Designed and implemented **AI Commander, Mentor & Evaluator** agents using OpenAI
+- Wired AI services into the FastAPI backend via a clean `ai_bridge` abstraction
+- Added **prompt-injection guardrail**, latency safety net, and structured AI call logging
+- Built **live E2E tests** (real OpenAI) + full mocked test suite — 503 fallbacks instead of crashes
+- Fixed Docker + WebSocket bugs only visible in the real Dockerized stack
+
+`Python` · `FastAPI` · `OpenAI` · `MongoDB` · `PostgreSQL` · `Docker` · `WebSockets` · `pytest`
+
+---
+
+### 🏫 Talmyeda — Institutional Management Backend *(st7676/talmyeda-backend)*
+
+Multi-tenant platform for managing educational institutions — participants, staff, groups, and dynamic schemas.
+
+**My contribution — built the entire backend from scratch:**
+- Auth system with tenant-scoped JWT guards
+- **CASL authorization engine** with field-level READ permission filtering
+- Dynamic schema engine — FieldDefinition & FieldOption CRUD
+- Self-registration flow, group assignments, dynamic search/filter/sort
+
+`TypeScript` · `NestJS` · `CASL` · `PostgreSQL` · `JWT`
 
 ---
 
