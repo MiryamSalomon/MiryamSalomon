@@ -73,6 +73,8 @@ const miryam: Developer = {
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -156,7 +158,7 @@ Multi-tenant platform for managing educational institutions — participants, st
 - Dynamic schema engine — FieldDefinition & FieldOption CRUD
 - Self-registration flow, group assignments, dynamic search/filter/sort
 
-`TypeScript` · `NestJS` · `CASL` · `PostgreSQL` · `JWT`
+`TypeScript` · `NestJS` · `MongoDB` · `CASL` · `JWT` · `Jest`
 
 ---
 
