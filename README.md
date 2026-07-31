@@ -166,7 +166,7 @@ Multi-tenant platform for managing educational institutions — participants, st
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MiryamSalomon&show_icons=true&theme=tokyonight&border_color=764ba2&title_color=f093fb&icon_color=764ba2&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MiryamSalomon&show_icons=true&theme=tokyonight&border_color=764ba2&title_color=f093fb&icon_color=764ba2&count_private=true&include_all_commits=true" height="180"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiryamSalomon&layout=compact&theme=tokyonight&border_color=764ba2&title_color=f093fb&icon_color=764ba2&langs_count=6" height="180"/>
 
